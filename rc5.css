@@ -1,0 +1,35 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(to top, #4F6072, #8699AA);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1{
+  background-color: #8699AA;
+  padding: 20px;
+  color: black;
+  margin-top: -500px;
+  margin-left: 100px;
+
+}
+
+label{
+  margin-left: -400px;
+  background-color: #8699AA;
+  padding: 15px;
+  color: black;
+}
+
+input{
+  padding: 15px;
+  color: black;
+}
